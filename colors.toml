@@ -1,0 +1,33 @@
+mode = "light"
+
+accent = "#0B6BA3"
+selection = "#E8A99A"
+muted = "#5C564E"
+
+background = "#F7F4EE"
+dark_background = "#EFE6D4"
+darker_background = "#E5D9C6"
+lighter_background = "#FFFCF8"
+
+foreground = "#1C2430"
+dark_foreground = "#5C564E"
+light_foreground = "#243044"
+bright_foreground = "#121820"
+
+red = "#D63A32"
+yellow = "#E8B923"
+orange = "#D45C3E"
+green = "#1A9A22"
+cyan = "#0D8A96"
+blue = "#0B6BA3"
+magenta = "#C43D72"
+brown = "#9A5A3A"
+
+# Light theme: keep the bright ANSI slots on the base paint. Left unset,
+# Omarchy mixes each one 20% toward white and the syntax colors wash out.
+bright_red = "#D63A32"
+bright_yellow = "#E8B923"
+bright_green = "#1A9A22"
+bright_cyan = "#0D8A96"
+bright_blue = "#0B6BA3"
+bright_magenta = "#C43D72"
